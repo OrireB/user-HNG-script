@@ -1,3 +1,4 @@
+Test--Linux User Creation Bash Script
 Using Bash Scripts to Automate User Management in Linux
 
 In environments with multiple users and complex access requirements, managing user accounts on a Linux system can be a time-consuming task. Scripting automation improves security, preserves uniformity across user configurations, and streamlines this procedure. This article will examine a Bash script that can be used to automate tasks related to user management on a Linux system, with a focus on the script's features, organization, and advantages.
